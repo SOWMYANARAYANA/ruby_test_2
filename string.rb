@@ -3,8 +3,7 @@
 # Ex: qWInix TechnOLOgy -> QwiNIX tECHNoloGY
 puts "enter the string"
 a=gets.chomp
-
-	puts a.swapcase
+puts a.swapcase
 
 	 
 
